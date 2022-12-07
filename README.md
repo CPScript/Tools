@@ -53,7 +53,7 @@ Project names | Info | LINK
 --------- | --------- | ---------
 bookmarklet-tools | A list of bookmarks for cheating at school | https://github.com/CPScript/bookmarlet-tools
 Kitty-tools | A kahoot hack for all answers on a quiz | https://github.com/CPScript/Kitty-Tools
-
+Mod-Menu | A mod menu bookmarklet | https://github.com/CPScript/MOD-menu
 
 
 
