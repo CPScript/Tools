@@ -13,22 +13,6 @@ Zip-Password-Grabber | A tool to grab the password on locked zip files | https:/
 
 
 
-# tools that are bad or just dont work anymore
-
-Project names | Info | LINK
---------- | --------- | ---------
-Computer-Info-Grabber | A tool that tells you your IP address | https://github.com/CPScript/Computer-Info-Grabber
-CPSphishing-tool | A phishing tool that doesn't rly work anymore | https://github.com/CPScript/CPSphishing-tool
-ToXI-DDoS | A fake ddos tool to troll your freinds | https://github.com/CPScript/Toxi-DDoS
-I-WISH-I-KNEW | I got board | https://github.com/CPScript/I-WISH-I-KNEW 
-WAKATIME_API_KEY | IDFK | https://github.com/CPScript/WAKATIME_API_KEY
-Web-D00M-for-small-websites | I havn't edited this in a wile so idk what it does anymore | https://github.com/CPScript/Web-D00M-for-small-websites
-Web-D00M | Another virsion of this ^^^ | https://github.com/CPScript/Web-D00M
-
-
-
-
-
 # Malware And viruses
 
 Project names | Info | LINK
@@ -44,6 +28,21 @@ MYD00M | My doom sorce script | https://github.com/CPScript/MyD00M
 Chicken-Wings | MOre malware | https://github.com/CPScript/Chicken-Wings
 Fine-Wine | COmputer worm | https://github.com/CPScript/Fine-Wine
 
+
+
+
+
+# tools that are bad or just dont work anymore
+
+Project names | Info | LINK
+--------- | --------- | ---------
+Computer-Info-Grabber | A tool that tells you your IP address | https://github.com/CPScript/Computer-Info-Grabber
+CPSphishing-tool | A phishing tool that doesn't rly work anymore | https://github.com/CPScript/CPSphishing-tool
+ToXI-DDoS | A fake ddos tool to troll your freinds | https://github.com/CPScript/Toxi-DDoS
+I-WISH-I-KNEW | I got board | https://github.com/CPScript/I-WISH-I-KNEW 
+WAKATIME_API_KEY | IDFK | https://github.com/CPScript/WAKATIME_API_KEY
+Web-D00M-for-small-websites | I havn't edited this in a wile so idk what it does anymore | https://github.com/CPScript/Web-D00M-for-small-websites
+Web-D00M | Another virsion of this ^^^ | https://github.com/CPScript/Web-D00M
 
 
 
