@@ -1,9 +1,13 @@
 # How do you use any of my tools?
-
-* First click on the link to the program that you want to use.
-* Next click on the <CODE> button (its the big green button at the top of the page)
-* Next click create in codepace... if you dont have codpace click here and set it up (https://github.com/features/codespaces)
-* Lastly... most of my scripts are python so if it doesn't say how to use than just type "python FILE TO RUN.py" if it does have instruction, just copy and paist that into the terminal.
+* Instructions
+  
+  * First click on the link to the program that you want to use.
+  
+  * Next click on the <CODE> button (its the big green button at the top of the page)
+  
+  * Next click create in codepace... if you dont have codpace click here and set it up (https://github.com/features/codespaces)
+  
+  * Lastly... most of my scripts are python so if it doesn't say how to use than just type "python FILE TO RUN.py" if it does have instruction, just copy and paist that into the terminal.
 
 # Best of my Tools
 
