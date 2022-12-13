@@ -27,6 +27,7 @@ Zip-Password-Grabber | A tool to grab the password on locked zip files | https:/
 
 Project names | Info | LINK
 --------- | --------- | ---------
+LOL-Ransomeware | a ransome made in python | https://github.com/CPScript/LOL-ransomeware
 YourAcutie.TXT | A malware that locks your files | https://github.com/CPScript/YourAcutie.TXT
 Smile | A copy of the website YouAreAnIdiot.org | https://github.com/CPScript/Smile
 Ransomeware | <--- its in the name  | https://github.com/CPScript/Ransomeware
